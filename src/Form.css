@@ -1,0 +1,41 @@
+.form {
+    width: 500px;
+    height: 500px;
+    font-size: large;
+}
+
+.addCompany{
+    width: 500px;
+    margin: 20px;
+}
+
+.addCompany label{
+    margin-right: 80px;
+}
+
+.addCompany input{
+    padding: 5px;
+}
+
+.addStudents{
+    width: 500px;
+    margin: 20px;
+}
+
+.addStudents label{
+    margin-right: 36px;
+}
+
+.addStudents input{
+    padding: 5px;
+}
+
+.addProductButton{
+    margin: 20px;
+    color: white;
+    background-color: #3F51B5;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
